@@ -1,7 +1,7 @@
 /**
  * Java. My first program "Hello World!!!"
  * @author Aleksey Malyshev
- * @version 1.0.0 date March 06, 2017
+ * @version 1.0.0 dated March 06, 2017
  */
 public class HelloWorld {
 
